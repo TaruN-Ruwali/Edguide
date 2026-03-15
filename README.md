@@ -1,6 +1,10 @@
 # Edguide — Modern Learning Management System (LMS)
-
-![LearnHub Banner](https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=1200)
+[![Status: Under Construction](https://img.shields.io/badge/Status-Under_Construction-orange.svg)](#)
+[![Stack: Next.js 16](https://img.shields.io/badge/Stack-Next.js_16-blue.svg)](https://nextjs.org/)
+[![Language: TypeScript](https://img.shields.io/badge/Language-TypeScript-007ACC.svg)](https://www.typescriptlang.org/)
+[![Design: Tailwind CSS 4](https://img.shields.io/badge/Design-Tailwind_CSS_4-38B2AC.svg)](https://tailwindcss.com/)
+[![Database: PostgreSQL | Prisma](https://img.shields.io/badge/Database-PostgreSQL_|_Prisma-336791.svg)](https://www.prisma.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Edguide is a high-performance, feature-rich LMS designed to provide a premium experience for both instructors and students. Built with the latest technologies, it offers real-time interaction, progress tracking, and AI-assisted focus monitoring.
 
