@@ -1,8 +1,8 @@
-# LearnHub — Modern Learning Management System (LMS)
+# Edguide — Modern Learning Management System (LMS)
 
 ![LearnHub Banner](https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80&w=1200)
 
-LearnHub is a high-performance, feature-rich LMS designed to provide a premium experience for both instructors and students. Built with the latest technologies, it offers real-time interaction, progress tracking, and AI-assisted focus monitoring.
+Edguide is a high-performance, feature-rich LMS designed to provide a premium experience for both instructors and students. Built with the latest technologies, it offers real-time interaction, progress tracking, and AI-assisted focus monitoring.
 
 ## 🚀 Features
 
